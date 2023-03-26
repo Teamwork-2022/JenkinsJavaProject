@@ -4,6 +4,7 @@ public class Main {
             System.out.println("Hello world!");
             System.out.println("Cheeka Cho");
             System.out.println("Lee Lala Lee ");
+            System.out.println("Ho Ho Ha Hee Ha Hee");
             Thread.sleep(4000);
         }
 
